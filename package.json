@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KHADIJALAHMAR/Booking.git"
+    "url": "https://github.com/Benkrakar/bookingv2"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KHADIJALAHMAR/Booking/issues"
+    "url": "https://github.com/Benkrakar/bookingv2"
   },
-  "homepage": "https://github.com/KHADIJALAHMAR/Booking#readme",
+  "homepage": "https://github.com/Benkrakar/bookingv2",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
