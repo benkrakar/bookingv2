@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/KHADIJALAHMAR/Booking.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/KHADIJALAHMAR/Booking/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/KHADIJALAHMAR/Booking#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
